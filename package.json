@@ -7,7 +7,7 @@
     "dev": "parcel index.html",
     "build": "parcel build index.html",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "homepage": "http://BasicallyMe.github.io/qr-code-component",
   "keywords": [],
