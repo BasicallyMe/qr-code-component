@@ -62,4 +62,4 @@ I want to continue learning about CSS properties and using HTML markup correctly
 ## Author
 
 - Frontend Mentor - [@BasicallyMe](https://www.frontendmentor.io/profile/BasicallyMe)
-- Twitter - [@yourusername](https://www.twitter.com/justAbajit)
+- Twitter - [justAbajit](https://www.twitter.com/justAbajit)
